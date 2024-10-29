@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Starbox%20Hub&fontSize=90)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Starbox%20Hub&fontSize=90" alt="header">
+</div>
+
 
 <h2 align="center">안녕하세요! 👋 Starbox7의 GitHub에 오신 것을 환영합니다!</h2>
 <p align="center">
