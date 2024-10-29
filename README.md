@@ -37,13 +37,8 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=starbox7&theme=github" alt="GitHub 활동 그래프" />
-</p>
-
 ### 🌐 나를 찾아보세요!
 <p align="center">
-  <a href="https://velog.io/@starbox7/posts"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat&logo=GitHub%20Sponsors&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/starbox7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" /></a>
-  <a href="https://yourblog.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=Google%20Chrome&logoColor=white" /></a>
+  <a href="https://starbox918.notion.site/bumjune?pvs=4"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat&logo=GitHub%20Sponsors&logoColor=white" /></a>
+  <a href="https://velog.io/@starbox7/posts"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=Google%20Chrome&logoColor=white" /></a>
 </p>
