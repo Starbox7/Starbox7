@@ -21,9 +21,9 @@
 </p>
 
 ### 🌟 주요 프로젝트
-- **[프로젝트1](https://github.com/starbox7/project1)**: 프로젝트 설명과 간단한 기능 소개.
-- **[프로젝트2](https://github.com/starbox7/project2)**: 프로젝트 설명과 간단한 기능 소개.
-- **[프로젝트3](https://github.com/starbox7/project3)**: 프로젝트 설명과 간단한 기능 소개.
+- **[We Save Together](https://github.com/Starbox7/We_save_Together_Web.git)**: 대구시 환경문제 해결을 위한 캠페인 플랫폼 우리함께해요
+- **[Pill-Pack](https://github.com/Starbox7/Pill-Pack)**: 인공지능 기반 의약품 분석 환자 케어 서비스 필팩
+- **[Kirtion](https://github.com/Starbox7/RE-Kirtion.git)**: 노션 클론 베이스 메모 서비스 커션
 
 <p align="center">
   <a href="https://github.com/starbox7/github-readme-stats">
@@ -43,7 +43,7 @@
 
 ### 🌐 나를 찾아보세요!
 <p align="center">
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat&logo=GitHub%20Sponsors&logoColor=white" /></a>
+  <a href="https://velog.io/@starbox7/posts"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat&logo=GitHub%20Sponsors&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/starbox7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" /></a>
   <a href="https://yourblog.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=Google%20Chrome&logoColor=white" /></a>
 </p>
